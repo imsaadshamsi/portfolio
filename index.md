@@ -177,7 +177,7 @@ $("html").click(function () {
                     <div class="banner_content banner_center_content">
                         <h2 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.02s" style="animation-delay: 0.02s; opacity: 1;">Hello, I'm Saad Shamsi</h2>
                         <div id="typed-strings" class="d-none" style="display: none;">
-                            <b>Full Stack Developer</b> <b>Technical Project Manager</b>
+                            <b>Full Stack Developer</b> <b>Technical Writer</b>
                         </div>
                         <h4 class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.03s" style="animation-delay: 0.03s; opacity: 1;">I'm a Freelance <span id="typed-text" class="text_default"></span><span class="typed-cursor">|</span></h4>
                         <p class="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.04s" style="animation-delay: 0.04s; opacity: 1;">Node JS, Angular, React Native, Dot Net, MySql, MS SQL, MongoDB, Jira, Pivotal Tracker, BaseCamp, Sifter</p>
