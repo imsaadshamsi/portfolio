@@ -1,4 +1,5 @@
-<html lang="en"><head>
+<html lang="en">
+  <head>
   <!-- Meta -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -988,4 +989,6 @@
             50% { opacity: 0.0; }
             100% { opacity: 1; }
           }
-        </style></body></html>
+        </style>
+        </body>
+        </html>
