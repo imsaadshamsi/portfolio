@@ -69,7 +69,7 @@ var sc_https=1;
         </ul>
     </div>
 </div> -->
-<script>
+</div></script>
 
 var removeClass = true;
 $(".demo_icon").click(function () {
